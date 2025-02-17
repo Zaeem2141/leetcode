@@ -6,6 +6,7 @@ LeetCode Practice Questions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Zaeem2141/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3636-check-balanced-string](https://github.com/Zaeem2141/leetcode/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
