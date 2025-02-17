@@ -24,4 +24,9 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Zaeem2141/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
