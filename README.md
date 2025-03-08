@@ -29,4 +29,8 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Zaeem2141/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
