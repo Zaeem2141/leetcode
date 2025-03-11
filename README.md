@@ -27,6 +27,7 @@ LeetCode Practice Questions
 | [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Zaeem2141/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Zaeem2141/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Zaeem2141/leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Zaeem2141/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Zaeem2141/leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
