@@ -17,6 +17,7 @@ LeetCode Practice Questions
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Zaeem2141/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,5 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Zaeem2141/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
