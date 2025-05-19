@@ -53,4 +53,20 @@ LeetCode Practice Questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Zaeem2141/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Zaeem2141/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Zaeem2141/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Zaeem2141/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Zaeem2141/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
