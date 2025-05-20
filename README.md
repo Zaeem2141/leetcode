@@ -37,6 +37,7 @@ LeetCode Practice Questions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Zaeem2141/leetcode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/Zaeem2141/leetcode/tree/master/0620-not-boring-movies) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Zaeem2141/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 ## Binary Search
