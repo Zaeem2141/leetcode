@@ -39,6 +39,7 @@ LeetCode Practice Questions
 | ------- |
 | [0175-combine-two-tables](https://github.com/Zaeem2141/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Zaeem2141/leetcode/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Zaeem2141/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0620-not-boring-movies](https://github.com/Zaeem2141/leetcode/tree/master/0620-not-boring-movies) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Zaeem2141/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 ## Binary Search
