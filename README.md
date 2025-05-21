@@ -42,6 +42,7 @@ LeetCode Practice Questions
 | [0181-employees-earning-more-than-their-managers](https://github.com/Zaeem2141/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Zaeem2141/leetcode/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/Zaeem2141/leetcode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/Zaeem2141/leetcode/tree/master/0627-swap-salary) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Zaeem2141/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 ## Binary Search
 |  |
