@@ -12,12 +12,14 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
+| [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Zaeem2141/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ LeetCode Practice Questions
 | ------- |
 | [0069-sqrtx](https://github.com/Zaeem2141/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Zaeem2141/leetcode/tree/master/0367-valid-perfect-square) |
+| [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +81,8 @@ LeetCode Practice Questions
 | ------- |
 | [0100-same-tree](https://github.com/Zaeem2141/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Zaeem2141/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
