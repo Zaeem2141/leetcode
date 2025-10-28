@@ -13,6 +13,7 @@ LeetCode Practice Questions
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ LeetCode Practice Questions
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Zaeem2141/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -27,6 +29,7 @@ LeetCode Practice Questions
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +58,7 @@ LeetCode Practice Questions
 | ------- |
 | [0069-sqrtx](https://github.com/Zaeem2141/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Zaeem2141/leetcode/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 ## Recursion
@@ -89,5 +93,6 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
