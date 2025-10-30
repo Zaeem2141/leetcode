@@ -6,6 +6,7 @@ LeetCode Practice Questions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Zaeem2141/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3636-check-balanced-string](https://github.com/Zaeem2141/leetcode/tree/master/3636-check-balanced-string) |
 ## Array
@@ -18,6 +19,7 @@ LeetCode Practice Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zaeem2141/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -95,4 +97,8 @@ LeetCode Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
