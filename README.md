@@ -9,6 +9,7 @@ LeetCode Practice Questions
 | [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Zaeem2141/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Zaeem2141/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Zaeem2141/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3636-check-balanced-string](https://github.com/Zaeem2141/leetcode/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
@@ -105,4 +106,12 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Zaeem2141/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Zaeem2141/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
