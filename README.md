@@ -8,6 +8,7 @@ LeetCode Practice Questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zaeem2141/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Zaeem2141/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/Zaeem2141/leetcode/tree/master/0067-add-binary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Zaeem2141/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Zaeem2141/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3636-check-balanced-string](https://github.com/Zaeem2141/leetcode/tree/master/3636-check-balanced-string) |
@@ -42,12 +43,14 @@ LeetCode Practice Questions
 | [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Zaeem2141/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Zaeem2141/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Zaeem2141/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zaeem2141/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Zaeem2141/leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Zaeem2141/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Zaeem2141/leetcode/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -114,4 +117,8 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Zaeem2141/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Zaeem2141/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
