@@ -17,6 +17,7 @@ LeetCode Practice Questions
 | ------- |
 | [0015-3sum](https://github.com/Zaeem2141/leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Zaeem2141/leetcode/tree/master/0066-plus-one) |
+| [0303-range-sum-query-immutable](https://github.com/Zaeem2141/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Zaeem2141/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zaeem2141/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/Zaeem2141/leetcode/tree/master/2634-minimum-common-value) |
@@ -121,4 +122,12 @@ LeetCode Practice Questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Zaeem2141/leetcode/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Zaeem2141/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Zaeem2141/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
