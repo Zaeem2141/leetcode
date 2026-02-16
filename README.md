@@ -125,9 +125,18 @@ LeetCode Practice Questions
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Zaeem2141/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Zaeem2141/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Zaeem2141/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Zaeem2141/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Zaeem2141/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
